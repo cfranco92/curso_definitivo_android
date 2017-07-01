@@ -7,3 +7,4 @@ Recuerda:
 APK es el formato de empaquetado
 Vas a encontrar todo el código compilado en formato .dex
 Debemos tener cuidado con la cantidad de recursos que utilizamos
+.
