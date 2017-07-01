@@ -1,0 +1,13 @@
+Antes de iniciar el curso puedes descargar los recursos usados durante el curso en:
+
+
+
+https://i.platzi.com/curso-android/curso-android.zip
+
+
+
+También puedes ver el código en el repositorio oficial del curso en:
+
+
+
+https://github.com/platzi/Platzigram-1
