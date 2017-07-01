@@ -1,0 +1,5 @@
+Android Studio, es nuestro IDE de desarrollo basado en IntelliJ IDEA
+Solo se compilar los cambios y se ejecutan
+Editor de código inteligente
+Diseñado para usar en equipo
+Desarrollo para todos los dispositivos Android
